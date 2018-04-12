@@ -1,0 +1,6 @@
+# configurações de IDE
+.idea/
+nbproject/
+
+# configurações diversas
+vendor/
