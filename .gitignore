@@ -2,5 +2,8 @@
 .idea/
 nbproject/
 
+# configurações do projeto
+config/config.ini
+
 # configurações diversas
 vendor/
