@@ -4,6 +4,10 @@ nbproject/
 
 # configurações do projeto
 config/config.ini
+public/default.php
 
 # configurações diversas
 vendor/
+node_modules/
+composer.lock
+package-lock.json
